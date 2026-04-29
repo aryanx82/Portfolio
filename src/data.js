@@ -4,20 +4,20 @@ const projects = [
   {
     name: "Global AQI Analytics",
     description: "Advanced environmental monitoring tool utilizing Python, Pandas, and NumPy. Features complex trend analysis and automated visualization suites using Seaborn (sns) for heatmaps and Plotly for interactive statistical dashboards.",
-    image: `${base}aqi_project.png`,
-    tags: ["python", "pandas", "numpy", "seaborn", "plotly", "data-viz"],
-    github: "https://github.com/mausam-005/SectionA_G10_GlobalAQIAnalytics",
-    live: "https://github.com/mausam-005/SectionA_G10_GlobalAQIAnalytics"
-  },
-  {
-    name: "DVA Capstone: Root Cause Analysis Suite",
-    description: "Interactive analytics suite developed for executive-level root cause reporting. Integrates a high-performance Tableau dashboard with an advanced Excel model utilizing complex logic formulas and pivot charts.",
-    image: `${base}dva_capstone.png`,
+    image: `${base}public/dva_capstone2.png`,
     tags: ["tableau", "excel", "mysql", "dashboard"],
-    github: "https://github.com/mausam-005/DVA-Capstone",
+    github: "https://github.com/mausam-005/SectionA_G10_GlobalAQIAnalytics",
     live: "https://public.tableau.com/views/DVA_Dashboard_Final/DB-2RootCause?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     secondaryLive: "https://docs.google.com/spreadsheets/d/1hOI7rUB05ancqKKBM7Kk_-6SlKks32fau-yoKpyPegU/edit?gid=1504644105#gid=1504644105",
     secondaryLiveText: "View Spreadsheet"
+  },
+  {
+    name: "Law & Justice Crime Analysis Dashboard",
+    description: "Comprehensive crime analytics dashboard leveraging MySQL for data management and Tableau for advanced visualization. Provides law enforcement with actionable insights through interactive dashboards, trend analysis, and geographic crime pattern mapping with real-time data integration.",
+    image: `${base}dva_capstone.png`,
+    tags: ["python", "pandas", "numpy", "seaborn", "plotly", "data-viz"],
+    github: "https://github.com/Kushal425/DVA_Capstone_Sec-A_G2",
+    live: "https://github.com/Kushal425/DVA_Capstone_Sec-A_G2"
   },
   {
     name: "Crop Yield Predictor",
