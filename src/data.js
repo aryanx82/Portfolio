@@ -4,7 +4,7 @@ const projects = [
   {
     name: "Dva Project Startup Invesment Dashboard",
     description: "Comprehensive startup investment analytics dashboard combining Tableau visualizations with Excel modeling. Tracks venture capital trends, funding patterns, and investment performance metrics to provide actionable insights for startup ecosystem stakeholders and investors.",
-    image: `${base}public/dva_capstone2.png`,
+    image: `${base}dva_capstone2.png`,
     tags: ["tableau", "excel", "mysql", "dashboard"],
     github: "https://github.com/puneetk0/A_G11_StartupInvestments",
     live: "https://public.tableau.com/views/DVA_Dashboard_Final/DB-2RootCause?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",

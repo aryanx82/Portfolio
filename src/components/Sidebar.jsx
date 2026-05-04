@@ -15,7 +15,7 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
       <img
-        src={`${base}public/AryanYadav.jpg`}
+        src={`${base}AryanYadav.jpg`}
         alt="Aryan Yadav"
         className="sidebar-avatar"
       />
