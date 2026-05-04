@@ -44,7 +44,7 @@ export default function Sidebar() {
           LinkedIn
         </a>
         <a
-          href="#"
+          href={`${base}Resume-Aryan Yadav .pdf`}
           target="_blank"
           rel="noreferrer"
           className="sidebar-social-btn"
